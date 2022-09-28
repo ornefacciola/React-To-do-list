@@ -1,0 +1,9 @@
+body{
+    background-image: url(./5479107.jpg);
+}
+.inp{
+    border-radius: 5px;
+    margin-bottom: 20px;
+    height: 50px;
+    background-color: rgba(252, 252, 252, 0.452);
+}
