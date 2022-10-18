@@ -1,0 +1,43 @@
+
+body{
+    background: linear-gradient(
+        90deg,
+        rgb(113, 64, 228) 0%,
+        rgba(100, 115, 255, 1) 100%
+      );
+}
+.inp{
+    border-radius: 10px;
+    margin-bottom: 20px;
+    border-color: rgb(151, 151, 151);
+    height: 50px;
+    width:75%;
+    background: transparent;
+}
+.todo-form{
+    background: #161a2b;
+    text-align: center;
+    margin: 128px auto;
+    border-radius: 10px;
+    padding-bottom: 32px;
+    padding-top: 32px;
+}
+.eachtodo{
+    color: #fff;
+    background: linear-gradient(
+        90deg,
+        rgba(43, 255, 0, 0.507) 0%,
+        rgba(175, 15, 224, 0.322) 100%
+    ); 
+    padding: 16px;
+    border-radius: 5px;
+    width: 75%;
+}
+
+.save-btn{
+    margin-left: 8px;
+    cursor: pointer;
+    height:25px;
+    width: 25px;
+    color: rgb(222, 142, 230);
+}
